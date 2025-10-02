@@ -8,16 +8,16 @@
 
 ## 🚀 Featured Projects
 
-- **[Simon-Says Memory Game](https://github.com/omaralhalawani/simon-says-memory-game)** 🎮  
+- **[Simon-Says Memory Game](https://github.com/Omar-Alhalawani/simon-says-memory-game)** 🎮  
   Arduino-based handheld memory game with multiple modes, sound effects, and leaderboard system.  
   *Tech:* Arduino Uno, C++, Inventor, Woodworking  
 
-- **[Hazard Disposal Robot Car](https://github.com/omaralhalawani/hazard-disposal-robot-car)** 🚗🤖  
+- **[Hazard Disposal Robot Car](https://github.com/Omar-Alhalawani/hazard-disposal-robot-car)** 🚗🤖  
   Wireless Arduino-controlled car with mounted robotic arm for safe hazard disposal.  
   *Tech:* Arduino Uno, ESP8266, Blynk IoT, AutoCAD, Servo Motors  
   🎬 [Demo Video](https://www.youtube.com/watch?v=L9taRjRUhoM)  
 
-- **[Verbal-Responsive Robot Dog](https://github.com/omaralhalawani/verbal-responsive-robot-dog)** 🐶💬  
+- **[Verbal-Responsive Robot Dog](https://github.com/Omar-Alhalawani/verbal-responsive-robot-dog)** 🐶💬  
   Robotic dog that responds to voice commands, displays emotions on LCD, and maps surroundings with sensors.  
   *Tech:* Arduino, C++, Sensors, LCD, Microphone  
 
@@ -35,7 +35,7 @@
 ## 📫 Connect with Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/omar-alhalawani/)  
 - 📧 omar.alhalawani2006@gmail.com  
-- 🔧 [GitHub Projects](https://github.com/omaralhalawani)  
+- 🔧 [GitHub Projects](https://github.com/Omar-Alhalawani)  
 
 ---
 
